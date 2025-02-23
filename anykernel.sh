@@ -14,6 +14,7 @@ device.name1=topaz
 device.name2=tapas
 device.name3=sapphire
 device.name4=sapphiren
+device.name5=xun
 supported.versions=13 - 15
 '; } # end properties
 
