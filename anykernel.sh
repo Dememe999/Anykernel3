@@ -10,12 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=sapphire
-device.name4=sapphiren
-device.name5=xun
-supported.versions=13 - 15
+device.name1=cancunf
+supported.versions=13 - 16
 '; } # end properties
 
 # shell variables
